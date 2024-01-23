@@ -10,7 +10,7 @@ Homework 5: Not added
 Homework 6: Not added  
 
 ## Application labs
-Lab 1: labs/lab1  
+Lab 1: labs/lab1/       
 Lab 2: Not added  
 Lab 3: Not added  
 Lab 4: Not added  
