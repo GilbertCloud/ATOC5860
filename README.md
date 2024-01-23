@@ -2,7 +2,7 @@
 Repository for code from ATOC 5860 class, Spring 2024. Contains homework, application lab, lecture, and paper review code.
 
 ## Homeworks
-Homework 1: homeworks/homework1/ 
+Homework 1: homeworks/homework1/       
 Homework 2: Not added  
 Homework 3: Not added  
 Homework 4: Not added  
