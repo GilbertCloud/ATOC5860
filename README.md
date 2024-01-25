@@ -20,7 +20,7 @@ Lab 6: Not added
 ## Lecture code
 Lecture 1: lecture_code/lecture1  
 Lecture 2: lecture_code/lecture2  
-Lecture 3: Not added  
+Lecture 3: lecture_code/lecture3      
 
 ## Paper review
 Not added
