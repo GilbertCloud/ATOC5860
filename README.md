@@ -14,7 +14,10 @@ Lecture 1: lecture_code/lecture1
 Lecture 2: lecture_code/lecture2  
 Lecture 3: lecture_code/lecture3      
 Lecture 4: lecture_code/lecture4        
-Lecture 4: lecture_code/lecture5        
+Lecture 5: lecture_code/lecture5        
+Lecture 6: lecture_code/lecture6        
+Lecture 7: lecture_code/lecture7        
+
 
 ## Paper review
 Not added
