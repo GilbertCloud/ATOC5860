@@ -5,7 +5,7 @@ Repository for code from ATOC 5860 class, Spring 2024. Contains homework, applic
 Lab 1: labs/lab1/       
 Lab 2: labs/lab2/       
 Lab 3: labs/lab3/   
-Lab 4: Not added  
+Lab 4: labs/lab4/   
 Lab 5: Not added  
 Lab 6: Not added  
 
