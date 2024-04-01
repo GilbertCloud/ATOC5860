@@ -6,7 +6,7 @@ Lab 1: labs/lab1/
 Lab 2: labs/lab2/       
 Lab 3: labs/lab3/   
 Lab 4: labs/lab4/   
-Lab 5: Not added  
+Lab 5: labs/lab5/   
 Lab 6: Not added  
 
 ## Lecture code
@@ -19,6 +19,9 @@ Lecture 6: lecture_code/lecture6
 Lecture 7: lecture_code/lecture7        
 Lecture 8: lecture_code/lecture8        
 Lecture 9: lecture_code/lecture9        
+Lecture 10: lecture_code/lecture10        
+Lecture 11: lecture_code/lecture11        
+Lecture 12: lecture_code/lecture12        
 
 ## Paper review
 Not added
