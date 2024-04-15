@@ -6,3 +6,5 @@ labs/lab3/HadISST_sst.nc
 .venv/*
 additional_analyses/*
 labs/lab5/CESM1_LENS_Coupled_Control.cvdp_data.401-2200.nc
+labs/lab6/SOM_Output_n3_p10000_lr0.3.pickle
+labs/lab6/SOM_Output_n4_p10000_lr0.3.pickle
