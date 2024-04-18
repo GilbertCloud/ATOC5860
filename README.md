@@ -7,7 +7,7 @@ Lab 2: labs/lab2/
 Lab 3: labs/lab3/   
 Lab 4: labs/lab4/   
 Lab 5: labs/lab5/   
-Lab 6: Not added  
+Lab 6: labs/lab6/   
 
 ## Lecture code
 Lecture 1: lecture_code/lecture1  
